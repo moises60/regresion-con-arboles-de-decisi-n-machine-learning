@@ -41,7 +41,7 @@ Este proyecto tiene como objetivo implementar y analizar modelos de **Regresión
 ## Instalación
 
    ```bash
-   git clone https://github.com/tu_usuario/analisis_arboles_regresion.git
+   git clone https://github.com/moises60/regresion-con-arboles-de-decision-machine-learning.git
    ```
 
 ## Uso
